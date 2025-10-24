@@ -1,0 +1,15 @@
+{"cookies": {"JSESSIONID": "<obtain token looking at the cookies for the atlassion.net session>",
+           "atlassion.account.xsrf.token": "<obtain token looking at the cookies for the atlassion.net session>",
+           "tenant.session.token": "<obtain token by looking at the cookies for you atlassion.net session>"
+},
+"BASE_URL": "https://leaseplan-digital.atlassian.net/wiki/",
+"USER_BASE_URL": "https://leaseplan-digital.atlassian.net/wiki/spaces/DCE/pages/",
+"START_DOC": 4715577937,
+"tables": [ 
+   {"after_header_name": "Requirements", "table_entries": ["","Requirement", "User Story", "Importance", "Jira Issue", "Notes"], "presentation_order":["source_title", "id", "Requirement", "User Story", "Importance", "Jira Issue", "Notes","source_id", "doc_url"]},
+   {"after_header_name": "Success Metrics", "table_entries": ["Goal","Metric"], "presentation_order":["source_title", "Goal", "Metric", "source_id", "doc_url"]  },
+   {"after_header_name": "Open Questions", "table_entries": ["Question","Answer","Date Answered"], "presentation_order": ["source_title","Question","Answer","source_id","doc_url"]}
+],
+"other_content": [ { "list_key_name": "unparsed_documents", "presentation_order": []}, {"list_key_name": "attachments", "presentation_order":[]} ] ,
+"xlsx_docname": "Confluence_DCE_SPARK.xlsx"
+}
